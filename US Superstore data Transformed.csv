@@ -1,0 +1,798 @@
+,Customer ID,Sales,State,ChoseSameDay,level_1,Segment,Sub-Category,Category,Region,Postal Code,Discount
+0,AA-10315,5563.56,California,0.0,0,Consumer,Supplies,Technology,West,94122,0.2
+1,AA-10375,1056.39,California,0.0,0,Consumer,Storage,Technology,West,97301,0.2
+2,AA-10480,1790.5120000000002,North Carolina,0.08333333333333333,0,Consumer,Tables,Technology,South,65807,0.2
+3,AA-10645,5086.9349999999995,Oklahoma,0.0,0,Consumer,Storage,Technology,West,94109,0.4
+4,AB-10015,886.156,Oklahoma,0.0,0,Consumer,Storage,Technology,West,98103,0.2
+5,AB-10060,7755.62,Indiana,0.0,0,Home Office,Tables,Technology,West,98198,0.2
+6,AB-10105,14473.570999999998,Kentucky,0.0,0,Consumer,Tables,Technology,West,97206,0.8
+7,AB-10150,966.71,Texas,0.0,0,Consumer,Supplies,Technology,East,75220,0.6
+8,AB-10165,1113.838,Illinois,0.0,0,Consumer,Storage,Technology,West,98006,0.3
+9,AB-10255,914.5319999999999,Washington,0.0,0,Home Office,Supplies,Technology,West,98103,0.4
+10,AB-10600,1515.862,Arizona,0.0,0,Corporate,Phones,Technology,West,90004,0.8
+11,AC-10420,925.8,Pennsylvania,0.0,0,Corporate,Tables,Office Supplies,West,94122,0.8
+12,AC-10450,5527.846,Minnesota,0.0,0,Consumer,Supplies,Technology,West,98105,0.7
+13,AC-10615,2537.6859999999997,New York,0.05555555555555555,0,Corporate,Tables,Technology,West,98115,0.7
+14,AC-10660,657.316,Ohio,0.0,0,Consumer,Storage,Technology,West,94109,0.3
+15,AD-10180,6106.88,Montana,0.0,0,Home Office,Storage,Technology,West,94122,0.3
+16,AF-10870,2052.908,Florida,0.0,0,Consumer,Tables,Technology,West,94109,0.8
+17,AF-10885,861.565,Kentucky,0.0,0,Consumer,Supplies,Technology,South,45014,0.7
+18,AG-10270,2582.898,Pennsylvania,0.0,0,Consumer,Supplies,Technology,West,84084,0.2
+19,AG-10300,367.548,Nevada,0.0,0,Corporate,Chairs,Office Supplies,West,94122,0.2
+20,AG-10330,660.972,California,0.0,0,Consumer,Tables,Technology,West,95207,0.8
+21,AG-10390,200.945,Ohio,0.125,0,Consumer,Paper,Office Supplies,West,90004,0.7
+22,AG-10495,2356.855,Virginia,0.09523809523809523,0,Corporate,Tables,Technology,West,98105,0.7
+23,AG-10525,1455.038,Florida,0.0,0,Corporate,Tables,Technology,South,77095,0.4
+24,AG-10675,3489.0396000000005,North Carolina,0.0,0,Consumer,Tables,Technology,South,77036,0.32
+25,AG-10765,170.584,Illinois,0.2,0,Home Office,Binders,Office Supplies,South,60623,0.8
+26,AG-10900,4510.797,Pennsylvania,0.0,0,Consumer,Supplies,Technology,West,92105,0.7
+27,AH-10030,1744.7,California,0.0,0,Corporate,Storage,Technology,West,94122,0.2
+28,AH-10075,3250.337,Rhode Island,0.15,0,Corporate,Tables,Technology,West,92646,0.7
+29,AH-10120,1735.5140000000001,Texas,0.0625,0,Home Office,Tables,Technology,West,97301,0.8
+30,AH-10195,1587.452,Illinois,0.0,0,Corporate,Supplies,Office Supplies,South,60623,0.8
+31,AH-10210,4805.344,Kentucky,0.0,0,Consumer,Storage,Technology,West,98105,0.2
+32,AH-10465,2495.3916,Tennessee,0.0,0,Consumer,Tables,Technology,West,94109,0.32
+33,AH-10585,738.504,Washington,0.2,0,Consumer,Phones,Technology,West,98105,0.2
+34,AH-10690,7888.294,Florida,0.0,0,Corporate,Tables,Technology,West,94122,0.8
+35,AI-10855,4375.786,California,0.05555555555555555,0,Consumer,Storage,Technology,West,98031,0.3
+36,AJ-10780,4867.344,Virginia,0.0,0,Corporate,Tables,Technology,West,90004,0.7
+37,AJ-10795,4501.391,Washington,0.0,0,Corporate,Storage,Technology,West,98115,0.2
+38,AJ-10945,1839.24,Arizona,0.0,0,Consumer,Phones,Technology,West,94110,0.2
+39,AJ-10960,629.2479999999999,California,0.0,0,Consumer,Storage,Office Supplies,West,92037,0.2
+40,AM-10360,814.012,Nebraska,0.4166666666666667,0,Corporate,Storage,Technology,West,90032,0.5
+41,AM-10705,5664.022,Rhode Island,0.0,0,Consumer,Tables,Technology,West,98115,0.7
+42,AO-10810,161.28,California,0.0,0,Corporate,Tables,Furniture,West,90045,0.2
+43,AP-10720,1638.554,Florida,0.10526315789473684,0,Home Office,Tables,Technology,West,90032,0.7
+44,AP-10915,3323.556,South Carolina,0.03225806451612903,0,Consumer,Tables,Technology,West,98105,0.7
+45,AR-10345,1055.694,Pennsylvania,0.0,0,Corporate,Tables,Technology,East,78745,0.4
+46,AR-10405,2236.128,California,0.14285714285714285,0,Corporate,Tables,Technology,West,90036,0.3
+47,AR-10510,264.86400000000003,Oklahoma,0.14285714285714285,0,Consumer,Phones,Technology,West,90004,0.7
+48,AR-10540,6608.448,Michigan,0.0,0,Consumer,Paper,Technology,West,94109,0.2
+49,AR-10570,88.15,Georgia,0.0,0,Consumer,Furnishings,Office Supplies,South,31907,0.0
+50,AR-10825,4523.336,Ohio,0.0,0,Corporate,Tables,Technology,West,98661,0.3
+51,AS-10045,3050.692,North Carolina,0.0,0,Corporate,Tables,Technology,West,97756,0.7
+52,AS-10090,3255.31,Missouri,0.0,0,Consumer,Tables,Technology,West,92037,0.8
+53,AS-10135,58.82,Washington,0.0,0,Home Office,Paper,Office Supplies,West,98002,0.2
+54,AS-10225,4260.784,Alabama,0.0,0,Corporate,Storage,Technology,West,94109,0.2
+55,AS-10240,584.6080000000001,California,0.07692307692307693,0,Consumer,Storage,Office Supplies,West,90278,0.7
+56,AS-10285,3214.236,California,0.0,0,Corporate,Tables,Technology,West,98103,0.8
+57,AS-10630,833.398,Washington,0.0,0,Home Office,Storage,Technology,West,98103,0.4
+58,AT-10435,1171.814,Ohio,0.0,0,Home Office,Tables,Technology,West,90045,0.7
+59,AT-10735,3831.864,New Jersey,0.125,0,Consumer,Storage,Technology,West,98115,0.2
+60,AW-10840,649.376,Texas,0.0,0,Consumer,Supplies,Technology,West,93309,0.8
+61,AW-10930,2852.968,Pennsylvania,0.0,0,Home Office,Storage,Technology,West,94110,0.8
+62,AY-10555,497.014,California,0.0,0,Corporate,Phones,Technology,West,94110,0.2
+63,AZ-10750,1622.0179999999998,California,0.25,0,Consumer,Tables,Technology,West,92037,0.2
+64,BB-10990,744.3399999999999,Texas,0.0,0,Corporate,Storage,Technology,West,90301,0.8
+65,BB-11545,6765.728,Illinois,0.15,0,Corporate,Tables,Technology,West,94601,0.8
+66,BC-11125,2933.676,New York,0.05555555555555555,0,Home Office,Storage,Technology,West,94122,0.3
+67,BD-11320,5718.521,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,98103,0.3
+68,BD-11500,4411.2429999999995,Georgia,0.0,0,Consumer,Storage,Technology,West,94122,0.8
+69,BD-11560,320.54,California,0.0,0,Home Office,Paper,Technology,West,93727,0.0
+70,BD-11605,3288.471,California,0.0,0,Consumer,Tables,Technology,West,94122,0.3
+71,BD-11620,1538.11,California,0.375,0,Consumer,Tables,Technology,West,94122,0.4
+72,BD-11635,582.646,Ohio,0.0,0,Consumer,Paper,Technology,South,43229,0.2
+73,BD-11725,1526.5,Ohio,0.0,0,Consumer,Storage,Office Supplies,West,94122,0.2
+74,BD-11770,658.466,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,98026,0.2
+75,BE-11335,4204.676,New York,0.0,0,Home Office,Storage,Technology,West,94122,0.2
+76,BE-11410,2261.438,Illinois,0.2,0,Consumer,Paper,Technology,West,94521,0.2
+77,BE-11455,1727.652,Ohio,0.0,0,Home Office,Storage,Technology,East,66062,0.7
+78,BF-10975,599.798,Indiana,0.0,0,Corporate,Paper,Office Supplies,South,47201,0.7
+79,BF-11005,1333.88,California,0.0,0,Home Office,Storage,Technology,West,91104,0.6
+80,BF-11020,2888.506,California,0.047619047619047616,0,Corporate,Tables,Technology,West,98105,0.8
+81,BF-11080,272.95,Alabama,0.0,0,Consumer,Paper,Office Supplies,South,36116,0.0
+82,BF-11170,5907.972,Georgia,0.0,0,Home Office,Tables,Technology,West,95823,0.6
+83,BF-11215,1585.162,Texas,0.0,0,Home Office,Tables,Technology,West,87105,0.2
+84,BF-11275,791.9899999999999,Florida,0.0,0,Corporate,Phones,Technology,West,85705,0.2
+85,BG-11035,2798.948,Texas,0.08333333333333333,0,Consumer,Supplies,Technology,South,78745,0.7
+86,BG-11695,1874.172,New York,0.125,0,Corporate,Storage,Technology,West,80027,0.4
+87,BG-11740,1006.356,California,0.0,0,Consumer,Tables,Technology,West,93309,0.2
+88,BH-11710,6255.351,Tennessee,0.0,0,Consumer,Tables,Technology,West,90032,0.7
+89,BK-11260,659.1379999999999,California,0.0,0,Consumer,Tables,Technology,West,94110,0.8
+90,BM-11140,11789.63,New York,0.0,0,Consumer,Storage,Technology,West,98198,0.8
+91,BM-11575,808.162,Maryland,0.0,0,Corporate,Storage,Technology,West,90640,0.6
+92,BM-11650,7294.185,Michigan,0.0,0,Corporate,Storage,Technology,West,92037,0.7
+93,BM-11785,1338.842,Ohio,0.07142857142857142,0,Consumer,Supplies,Technology,West,98115,0.7
+94,BN-11470,265.296,California,0.0,0,Corporate,Storage,Technology,West,94513,0.2
+95,BN-11515,1459.344,California,0.0,0,Consumer,Storage,Office Supplies,West,98103,0.2
+96,BO-11350,2682.728,Oklahoma,0.0,0,Corporate,Tables,Technology,West,92105,0.7
+97,BO-11425,130.83,Kentucky,0.0,0,Consumer,Binders,Office Supplies,South,40475,0.0
+98,BP-11050,983.42,Illinois,0.0,0,Corporate,Supplies,Technology,West,90008,0.8
+99,BP-11095,2442.044,California,0.1,0,Corporate,Phones,Technology,West,94122,0.8
+100,BP-11155,1697.8609999999999,New York,0.0,0,Consumer,Paper,Technology,West,94109,0.7
+101,BP-11185,3675.861,Pennsylvania,0.1111111111111111,0,Corporate,Tables,Technology,West,98103,0.7
+102,BP-11230,1181.49,Washington,0.0,0,Consumer,Tables,Technology,West,99207,0.4
+103,BP-11290,2475.157,Pennsylvania,0.125,0,Consumer,Tables,Office Supplies,West,90036,0.7
+104,BS-11365,10501.653,New Jersey,0.1111111111111111,0,Corporate,Storage,Technology,West,98105,0.1
+105,BS-11380,3887.834,Ohio,0.0,0,Corporate,Storage,Technology,West,94122,0.7
+106,BS-11590,2454.928,Pennsylvania,0.0,0,Corporate,Phones,Technology,West,85234,0.7
+107,BS-11665,3288.1099999999997,California,0.0,0,Consumer,Storage,Technology,West,92105,0.6
+108,BS-11755,2562.382,California,0.0,0,Consumer,Tables,Technology,West,98026,0.5
+109,BS-11800,949.4300000000001,New York,0.0,0,Home Office,Storage,Office Supplies,West,92037,0.0
+110,BT-11305,2567.656,California,0.0,0,Home Office,Furnishings,Technology,West,98105,0.2
+111,BT-11395,2186.6130000000003,Kansas,0.0,0,Corporate,Tables,Technology,West,94109,0.7
+112,BT-11440,603.876,Michigan,0.0,0,Consumer,Paper,Office Supplies,West,80122,0.7
+113,BT-11485,415.19599999999997,Maryland,0.3333333333333333,0,Home Office,Paper,Office Supplies,East,20735,0.2
+114,BT-11530,2684.4919999999997,Ohio,0.0,0,Home Office,Storage,Technology,West,92037,0.4
+115,BT-11680,3196.752,Texas,0.1,0,Consumer,Storage,Technology,West,94122,0.4
+116,BV-11245,1523.2730000000001,Iowa,0.0,0,Corporate,Storage,Technology,West,98103,0.7
+117,BW-11065,385.516,New York,0.0,0,Consumer,Storage,Office Supplies,South,27604,0.2
+118,BW-11110,4750.358,Michigan,0.0,0,Corporate,Storage,Technology,West,99207,0.7
+119,BW-11200,1738.406,New York,0.0,0,Consumer,Storage,Technology,West,94122,0.8
+120,BW-11200,1738.406,Virginia,0.0,0,Consumer,Storage,Technology,West,94122,0.8
+121,CA-11965,3789.7228,South Dakota,0.0,0,Corporate,Labels,Technology,West,90036,0.32
+122,CA-12055,1679.7240000000002,New York,0.0,0,Home Office,Tables,Technology,West,90036,0.8
+123,CA-12265,2648.2872,New York,0.11764705882352941,0,Consumer,Tables,Technology,West,94110,0.8
+124,CA-12310,1421.954,Texas,0.0,0,Corporate,Tables,Technology,West,92804,0.3
+125,CA-12775,3041.566,Michigan,0.058823529411764705,0,Consumer,Tables,Technology,West,85204,0.7
+126,CB-12025,6076.139,Alabama,0.07692307692307693,0,Consumer,Tables,Technology,West,94110,0.8
+127,CB-12415,1949.2,California,0.08333333333333333,0,Consumer,Supplies,Technology,West,90036,0.8
+128,CB-12535,4246.4555,Delaware,0.21052631578947367,0,Corporate,Storage,Technology,West,94110,0.2
+129,CC-12100,1770.945,California,0.0,0,Home Office,Phones,Technology,West,90049,0.7
+130,CC-12145,2471.65,California,0.0,0,Consumer,Supplies,Technology,West,98103,0.3
+131,CC-12220,3913.418,Indiana,0.09090909090909091,0,Consumer,Tables,Technology,West,98105,0.4
+132,CC-12370,12129.072000000002,New York,0.0,0,Consumer,Phones,Technology,West,90045,0.8
+133,CC-12430,2870.05,New Hampshire,0.0,0,Home Office,Supplies,Technology,West,98052,0.2
+134,CC-12475,1659.438,California,0.15384615384615385,0,Consumer,Tables,Technology,West,94122,0.8
+135,CC-12550,113.832,California,0.0,0,Consumer,Phones,Technology,West,94122,0.2
+136,CC-12610,2540.631,Colorado,0.0,0,Corporate,Tables,Technology,West,80219,0.7
+137,CC-12670,2269.7015,Arizona,0.0,0,Consumer,Storage,Technology,West,98103,0.8
+138,CC-12685,2854.1150000000002,Kentucky,0.0,0,Consumer,Storage,Technology,South,79424,0.8
+139,CD-11920,2033.968,New York,0.0,0,Consumer,Phones,Technology,West,92530,0.2
+140,CD-11980,639.766,Oregon,0.0,0,Consumer,Paper,Technology,West,97504,0.8
+141,CD-12280,1205.584,Washington,0.0,0,Consumer,Tables,Technology,West,98105,0.4
+142,CD-12790,1860.732,Oklahoma,0.0,0,Home Office,Storage,Technology,West,92553,0.2
+143,CG-12040,904.4680000000001,Tennessee,0.0,0,Home Office,Phones,Technology,West,90045,0.7
+144,CG-12520,1148.7800000000002,Texas,0.4,0,Consumer,Storage,Office Supplies,South,77070,0.6
+145,CH-12070,1537.236,Michigan,0.0,0,Home Office,Storage,Technology,South,48227,0.2
+146,CJ-11875,16.52,Pennsylvania,0.0,0,Corporate,Art,Office Supplies,East,19140,0.2
+147,CJ-12010,11164.974,California,0.0,0,Consumer,Tables,Technology,West,94109,0.7
+148,CK-12205,3154.855,Oregon,0.09375,0,Consumer,Supplies,Technology,West,98059,0.8
+149,CK-12325,2945.321,Ohio,0.0,0,Home Office,Tables,Technology,West,98103,0.7
+150,CK-12595,2372.75,Illinois,0.0,0,Consumer,Supplies,Technology,West,92024,0.8
+151,CK-12760,1582.109,Illinois,0.0,0,Corporate,Tables,Technology,West,94122,0.7
+152,CL-11890,1262.0140000000001,California,0.14285714285714285,0,Consumer,Storage,Technology,West,94122,0.2
+153,CL-12565,10880.546,Iowa,0.21428571428571427,0,Consumer,Storage,Technology,West,98115,0.2
+154,CL-12700,2353.586,New York,0.0,0,Home Office,Storage,Technology,West,80906,0.7
+155,CM-11815,1673.888,Texas,0.0,0,Corporate,Supplies,Technology,West,98115,0.2
+156,CM-11935,565.392,North Carolina,0.0,0,Consumer,Phones,Technology,West,85705,0.2
+157,CM-12115,1661.6100000000001,California,0.0,0,Consumer,Phones,Technology,West,94109,0.2
+158,CM-12160,2533.314,Maryland,0.0,0,Consumer,Tables,Technology,West,94122,0.7
+159,CM-12190,1475.144,California,0.42857142857142855,0,Consumer,Tables,Technology,West,92105,0.3
+160,CM-12235,2305.712,Arizona,0.0,0,Consumer,Storage,Technology,West,85023,0.2
+161,CM-12385,8954.019999999999,California,0.0,0,Consumer,Storage,Technology,West,94110,0.6
+162,CM-12445,287.99,Texas,0.4444444444444444,0,Consumer,Supplies,Office Supplies,West,94122,0.3
+163,CM-12655,6339.5576,New York,0.0,0,Home Office,Tables,Technology,West,98115,0.32
+164,CM-12715,3984.4524,Texas,0.0,0,Corporate,Storage,Technology,West,98103,0.8
+165,CP-12085,5402.254,Missouri,0.0,0,Corporate,Supplies,Technology,West,98042,0.8
+166,CP-12340,5888.275,Washington,0.0,0,Corporate,Tables,Technology,West,98115,0.7
+167,CR-12580,2148.852,Washington,0.0,0,Home Office,Tables,Technology,West,98006,0.2
+168,CR-12625,475.9,New Jersey,0.0,0,Home Office,Paper,Office Supplies,South,49505,0.0
+169,CR-12730,1600.55,New York,0.0,0,Consumer,Paper,Office Supplies,East,60610,0.7
+170,CR-12820,1397.8724,Florida,0.0,0,Home Office,Storage,Technology,South,77041,0.32
+171,CS-11845,1278.954,Illinois,0.0,0,Corporate,Phones,Technology,West,98105,0.8
+172,CS-11860,537.632,Texas,0.14285714285714285,0,Consumer,Paper,Technology,South,75220,0.8
+173,CS-11950,3036.547,California,0.09090909090909091,0,Consumer,Storage,Technology,West,98115,0.8
+174,CS-12130,884.64,Texas,0.0,0,Consumer,Storage,Technology,West,98105,0.2
+175,CS-12175,844.4580000000001,Tennessee,0.0,0,Corporate,Tables,Office Supplies,West,94122,0.7
+176,CS-12250,2754.216,Louisiana,0.07142857142857142,0,Corporate,Storage,Technology,West,98103,0.2
+177,CS-12355,3202.1620000000003,Washington,0.0,0,Consumer,Supplies,Technology,West,98115,0.2
+178,CS-12400,3651.8585000000003,California,0.0,0,Home Office,Tables,Technology,West,98115,0.7
+179,CS-12460,550.644,New York,0.0,0,Consumer,Phones,Technology,South,31907,0.2
+180,CS-12490,1077.2285,Ohio,0.0,0,Corporate,Tables,Technology,South,77301,0.45
+181,CS-12505,5690.054999999999,North Carolina,0.0,0,Consumer,Supplies,Technology,West,94122,0.7
+182,CT-11995,3241.898,Pennsylvania,0.0,0,Consumer,Tables,Technology,West,90004,0.8
+183,CV-12295,2830.6279999999997,California,0.0,0,Consumer,Tables,Technology,West,93727,0.2
+184,CV-12805,2370.3136,New York,0.0,0,Corporate,Storage,Technology,West,94601,0.8
+185,CW-11905,1136.592,Montana,0.0,0,Home Office,Storage,Technology,West,90004,0.2
+186,CY-12745,2900.026,Illinois,0.09090909090909091,0,Corporate,Phones,Technology,West,94601,0.8
+187,Co-12640,1300.076,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,98105,0.6
+188,DA-13450,156.76,District of Columbia,0.0,0,Home Office,Paper,Technology,South,77095,0.2
+189,DB-12910,2171.599,Florida,0.0,0,Home Office,Phones,Technology,West,93905,0.7
+190,DB-12970,2839.2272,Texas,0.0,0,Corporate,Tables,Technology,West,90045,0.4
+191,DB-13060,4531.646,Illinois,0.3076923076923077,0,Consumer,Storage,Technology,West,98115,0.6
+192,DB-13120,2973.094,Texas,0.0,0,Corporate,Tables,Technology,West,95051,0.8
+193,DB-13210,2332.577,Michigan,0.047619047619047616,0,Consumer,Supplies,Technology,West,94109,0.8
+194,DB-13270,4655.897,Texas,0.0,0,Home Office,Tables,Technology,West,97206,0.8
+195,DB-13360,1081.466,Utah,0.0,0,Home Office,Storage,Technology,West,92503,0.2
+196,DB-13405,1711.692,New York,0.0,0,Consumer,Storage,Technology,South,46350,0.2
+197,DB-13555,3908.8028,Arkansas,0.0,0,Corporate,Storage,Technology,South,76106,0.8
+198,DB-13615,1989.05,North Carolina,0.0,0,Consumer,Storage,Technology,West,98105,0.2
+199,DB-13660,1155.202,Texas,0.0,0,Consumer,Storage,Technology,West,90036,0.8
+200,DC-12850,3336.168,Michigan,0.1111111111111111,0,Consumer,Supplies,Technology,South,77036,0.7
+201,DC-13285,1174.618,California,0.2857142857142857,0,Consumer,Storage,Technology,West,94110,0.2
+202,DD-13570,269.542,Virginia,0.0,0,Consumer,Storage,Technology,West,90049,0.8
+203,DE-13255,2550.874,Ohio,0.0,0,Home Office,Storage,Technology,West,90008,0.4
+204,DF-13135,2390.534,Illinois,0.0,0,Consumer,Tables,Technology,West,94591,0.8
+205,DG-13300,3195.818,Colorado,0.125,0,Corporate,Phones,Technology,West,98105,0.2
+206,DH-13075,4932.872,Kentucky,0.0,0,Corporate,Storage,Technology,West,94533,0.8
+207,DH-13675,1043.096,Virginia,0.36363636363636365,0,Home Office,Supplies,Technology,West,94122,0.2
+208,DJ-13420,2012.52,California,0.0,0,Corporate,Paper,Office Supplies,West,94110,0.0
+209,DJ-13510,2501.6879999999996,Arizona,0.0,0,Corporate,Paper,Technology,West,94110,0.3
+210,DJ-13630,3356.398,New York,0.0,0,Consumer,Storage,Technology,West,97206,0.2
+211,DK-12835,3256.48,Oregon,0.0,0,Corporate,Tables,Technology,West,97477,0.7
+212,DK-12895,4282.176,Florida,0.0,0,Consumer,Storage,Technology,West,98103,0.2
+213,DK-12985,1687.04,Illinois,0.0,0,Consumer,Tables,Office Supplies,West,97477,0.5
+214,DK-13090,2650.557,Nebraska,0.0,0,Consumer,Tables,Technology,West,98103,0.7
+215,DK-13150,797.832,New York,0.0,0,Corporate,Storage,Technology,East,62521,0.2
+216,DK-13225,4802.394,Illinois,0.0,0,Corporate,Tables,Technology,West,94109,0.8
+217,DK-13375,3318.486,Pennsylvania,0.13043478260869565,0,Consumer,Storage,Technology,West,98115,0.8
+218,DL-12865,1503.112,Texas,0.0,0,Consumer,Phones,Technology,West,90805,0.7
+219,DL-12925,3272.2,Indiana,0.07142857142857142,0,Consumer,Storage,Technology,West,92054,0.5
+220,DL-13315,1458.258,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,91730,0.8
+221,DL-13330,585.02,New York,0.0,0,Consumer,Supplies,Technology,West,88001,0.2
+222,DL-13495,3539.322,Georgia,0.08333333333333333,0,Corporate,Storage,Technology,West,99207,0.2
+223,DM-12955,1322.034,Arizona,0.1111111111111111,0,Corporate,Tables,Office Supplies,West,95823,0.3
+224,DM-13015,6345.103,Texas,0.4,0,Consumer,Tables,Technology,West,92024,0.8
+225,DM-13345,4074.4719999999998,North Carolina,0.0,0,Corporate,Tables,Technology,West,94109,0.4
+226,DM-13525,1376.792,Florida,0.0,0,Corporate,Storage,Technology,South,77070,0.7
+227,DN-13690,2139.79,California,0.0,0,Consumer,Storage,Technology,West,98115,0.2
+228,DO-13435,1300.0315,Ohio,0.23076923076923078,0,Consumer,Tables,Technology,West,98103,0.45
+229,DO-13645,1267.316,California,0.0,0,Consumer,Phones,Technology,West,90036,0.2
+230,DP-13000,1050.636,Texas,0.0,0,Consumer,Phones,Technology,West,90004,0.7
+231,DP-13105,2215.002,Wisconsin,0.0,0,Corporate,Storage,Technology,West,98115,0.2
+232,DP-13165,1058.616,Illinois,0.0,0,Consumer,Bookcases,Technology,East,60610,0.2
+233,DP-13390,5480.723999999999,Wisconsin,0.14285714285714285,0,Home Office,Storage,Office Supplies,West,94110,0.8
+234,DR-12880,6528.034000000001,Illinois,0.08333333333333333,0,Corporate,Supplies,Technology,West,97030,0.6
+235,DR-12940,8350.868,Rhode Island,0.0,0,Home Office,Storage,Technology,West,87105,0.7
+236,DS-13030,1762.213,Washington,0.0,0,Home Office,Supplies,Technology,West,98115,0.7
+237,DS-13180,2881.8128,Pennsylvania,0.0,0,Corporate,Tables,Technology,West,94122,0.7
+238,DV-13045,1119.483,Florida,0.1111111111111111,0,Corporate,Tables,Technology,West,92037,0.45
+239,DV-13465,3341.587,New York,0.06666666666666667,0,Consumer,Supplies,Technology,West,90049,0.7
+240,DW-13195,1080.751,Oregon,0.0,0,Corporate,Tables,Technology,West,97756,0.6
+241,DW-13480,5271.628,California,0.0,0,Home Office,Tables,Technology,West,94601,0.2
+242,DW-13540,344.08,Texas,0.0,0,Consumer,Storage,Office Supplies,West,98105,0.6
+243,DW-13585,1204.854,Ohio,0.0,0,Corporate,Supplies,Technology,West,98026,0.5
+244,Dl-13600,755.602,Washington,0.0,0,Corporate,Storage,Office Supplies,West,98105,0.8
+245,Dp-13240,7198.7609999999995,New Jersey,0.0,0,Home Office,Tables,Technology,West,98115,0.7
+246,EA-14035,2846.705,Ohio,0.04,0,Corporate,Phones,Technology,West,91104,0.8
+247,EB-13705,3644.978,California,0.08333333333333333,0,Corporate,Tables,Technology,West,94122,0.6
+248,EB-13750,3236.314,Texas,0.05,0,Corporate,Supplies,Technology,West,98103,0.7
+249,EB-13840,4358.128,Washington,0.0,0,Corporate,Tables,Office Supplies,West,98105,0.6
+250,EB-13870,2767.219,Florida,0.0,0,Consumer,Tables,Technology,West,96003,0.7
+251,EB-13930,944.6000000000001,Virginia,0.0,0,Consumer,Storage,Technology,West,94110,0.7
+252,EB-13975,1643.255,North Carolina,0.0,0,Corporate,Supplies,Technology,West,94533,0.7
+253,EB-14110,3071.126,New York,0.0,0,Consumer,Tables,Technology,West,95123,0.4
+254,EB-14170,1186.326,Texas,0.14285714285714285,0,Consumer,Storage,Office Supplies,West,98115,0.6
+255,EC-14050,461.914,Oklahoma,0.14285714285714285,0,Consumer,Storage,Technology,West,94110,0.7
+256,ED-13885,3484.92,California,0.0,0,Home Office,Supplies,Technology,West,98115,0.8
+257,EG-13900,1832.02,Illinois,0.0,0,Consumer,Tables,Technology,South,60623,0.8
+258,EH-13765,10310.880000000001,Illinois,0.03125,0,Corporate,Supplies,Office Supplies,West,98115,0.2
+259,EH-13945,684.1709999999999,California,0.058823529411764705,0,Consumer,Storage,Technology,West,92627,0.8
+260,EH-13990,825.9499999999999,Georgia,0.0,0,Consumer,Phones,Technology,West,98006,0.2
+261,EH-14005,1219.53,Pennsylvania,0.18181818181818182,0,Home Office,Storage,Technology,West,94109,0.7
+262,EH-14125,3082.653,California,0.2222222222222222,0,Home Office,Supplies,Technology,West,94110,0.8
+263,EH-14185,923.884,Pennsylvania,0.0,0,Consumer,Phones,Technology,South,77506,0.8
+264,EJ-13720,2162.174,California,0.0,0,Consumer,Tables,Technology,West,92037,0.6
+265,EJ-14155,2656.691,Washington,0.0,0,Consumer,Tables,Technology,West,98105,0.3
+266,EK-13795,1303.478,California,0.0,0,Home Office,Bookcases,Technology,West,94110,0.2
+267,EL-13735,124.28,Maryland,0.0,0,Home Office,Furnishings,Office Supplies,East,65109,0.0
+268,EM-13810,2567.0099999999998,New Hampshire,0.42857142857142855,0,Corporate,Tables,Technology,West,94122,0.4
+269,EM-13825,2339.598,California,0.0,0,Corporate,Storage,Technology,West,92553,0.6
+270,EM-13960,933.704,Illinois,0.0,0,Consumer,Storage,Technology,West,97206,0.8
+271,EM-13960,933.704,Oregon,0.0,0,Consumer,Storage,Technology,West,97206,0.8
+272,EM-14065,228.99,New York,0.0,0,Consumer,Storage,Technology,South,75034,0.7
+273,EM-14095,1041.0420000000001,Arizona,0.0,0,Corporate,Supplies,Technology,West,90036,0.2
+274,EM-14140,4588.436000000001,Arizona,0.2857142857142857,0,Home Office,Storage,Technology,West,92704,0.2
+275,EM-14200,366.822,Florida,0.0,0,Home Office,Tables,Technology,South,75217,0.3
+276,EN-13780,2199.366,Texas,0.4444444444444444,0,Consumer,Phones,Technology,East,75220,0.2
+277,EP-13915,5478.0608,Illinois,0.0,0,Consumer,Tables,Technology,West,94122,0.8
+278,ER-13855,1245.788,North Carolina,0.0,0,Corporate,Tables,Office Supplies,West,80906,0.4
+279,ES-14020,3510.4579999999996,Tennessee,0.0,0,Consumer,Phones,Technology,West,94110,0.2
+280,ES-14080,4657.924,Arizona,0.0,0,Corporate,Tables,Technology,West,97477,0.7
+281,FA-14230,2984.054,Colorado,0.0,0,Corporate,Storage,Technology,West,90805,0.7
+282,FC-14245,3418.742,Missouri,0.0,0,Home Office,Storage,Technology,West,95823,0.7
+283,FC-14335,3889.366,New Mexico,0.1,0,Corporate,Storage,Technology,West,94110,0.2
+284,FG-14260,1383.144,California,0.09090909090909091,0,Home Office,Storage,Technology,West,98105,0.7
+285,FH-14275,4256.272,Virginia,0.09523809523809523,0,Corporate,Tables,Technology,West,94122,0.7
+286,FH-14350,2271.284,Illinois,0.0,0,Consumer,Storage,Technology,West,98105,0.7
+287,FH-14365,6987.196,Tennessee,0.0,0,Corporate,Tables,Technology,West,98115,0.7
+288,FM-14215,2456.638,Connecticut,0.06666666666666667,0,Corporate,Tables,Technology,West,98103,0.4
+289,FM-14290,3736.198,Washington,0.45,0,Home Office,Storage,Technology,West,98661,0.8
+290,FM-14380,2523.266,Michigan,0.0,0,Consumer,Storage,Technology,West,80013,0.7
+291,FO-14305,2678.438,Florida,0.0,0,Consumer,Tables,Technology,West,95823,0.8
+292,FP-14320,4046.746,California,0.0,0,Consumer,Tables,Technology,West,98105,0.4
+293,FW-14395,79.75,California,0.0,0,Corporate,Phones,Technology,West,90032,0.0
+294,GA-14515,3919.7760000000003,Texas,0.0,0,Consumer,Storage,Technology,West,94122,0.2
+295,GA-14725,1398.382,Ohio,0.045454545454545456,0,Consumer,Supplies,Technology,West,97301,0.8
+296,GB-14530,1568.44,New York,0.0,0,Corporate,Tables,Technology,West,90049,0.7
+297,GB-14575,4716.288,Kansas,0.0,0,Consumer,Storage,Technology,South,67212,0.2
+298,GD-14590,1888.07,Washington,0.0,0,Corporate,Phones,Technology,West,98226,0.4
+299,GG-14650,2224.0,California,0.0,0,Corporate,Tables,Technology,West,98103,0.7
+300,GH-14410,2819.4669999999996,Arizona,0.0,0,Home Office,Storage,Technology,West,94122,0.8
+301,GH-14425,4172.8460000000005,California,0.0,0,Consumer,Storage,Technology,West,98105,0.7
+302,GH-14485,1361.2440000000001,Texas,0.0,0,Corporate,Phones,Technology,Central,75081,0.6
+303,GH-14665,146.94080000000002,Illinois,0.0,0,Consumer,Supplies,Office Supplies,Central,78664,0.32
+304,GK-14620,6497.27,Texas,0.0,0,Corporate,Tables,Technology,West,97301,0.4
+305,GM-14440,3582.8199999999997,New York,0.0,0,Consumer,Storage,Technology,West,94122,0.2
+306,GM-14455,3078.624,Illinois,0.0,0,Home Office,Tables,Technology,East,78745,0.6
+307,GM-14500,1255.682,Florida,0.0,0,Consumer,Tables,Technology,West,98103,0.3
+308,GM-14680,3163.628,New York,0.0,0,Consumer,Tables,Technology,West,98105,0.4
+309,GM-14695,6049.966,Virginia,0.0,0,Corporate,Tables,Technology,West,94122,0.2
+310,GP-14740,236.53,Massachusetts,0.0,0,Corporate,Storage,Office Supplies,East,17602,0.7
+311,GR-14560,1284.38,Delaware,0.0,0,Corporate,Paper,Office Supplies,West,94110,0.0
+312,GT-14635,9351.212,North Carolina,0.3333333333333333,0,Corporate,Tables,Technology,South,27217,0.5
+313,GT-14710,11820.119999999999,New York,0.0,0,Consumer,Supplies,Technology,West,98105,0.3
+314,GT-14755,226.436,Illinois,0.0,0,Consumer,Tables,Office Supplies,West,90805,0.8
+315,GW-14605,2189.019,Tennessee,0.0,0,Consumer,Tables,Technology,West,98115,0.7
+316,GZ-14470,4355.150000000001,New Mexico,0.2857142857142857,0,Consumer,Tables,Technology,West,94110,0.3
+317,GZ-14545,2454.6220000000003,California,0.0,0,Corporate,Storage,Technology,West,91360,0.2
+318,HA-14905,2163.3,Colorado,0.1,0,Consumer,Storage,Technology,West,95123,0.7
+319,HA-14920,2584.158,California,0.0,0,Consumer,Storage,Technology,West,94110,0.8
+320,HD-14785,251.36,Massachusetts,0.0,0,Home Office,Paper,Office Supplies,East,60610,0.8
+321,HE-14800,883.5319999999999,Illinois,0.0,0,Corporate,Paper,Technology,East,60623,0.2
+322,HF-14995,2533.1639999999998,Florida,0.0,0,Consumer,Tables,Technology,West,94109,0.7
+323,HG-14845,785.628,New York,0.2,0,Consumer,Storage,Office Supplies,South,77041,0.7
+324,HG-14965,3247.642,Mississippi,0.058823529411764705,0,Corporate,Supplies,Technology,West,94110,0.8
+325,HG-15025,3690.284,Texas,0.36363636363636365,0,Consumer,Storage,Technology,West,90032,0.8
+326,HH-15010,218.668,California,0.3333333333333333,0,Corporate,Tables,Office Supplies,West,94110,0.2
+327,HJ-14875,358.1,California,0.0,0,Home Office,Supplies,Office Supplies,West,98105,0.2
+328,HK-14890,4877.784,Illinois,0.0,0,Corporate,Tables,Technology,West,93905,0.8
+329,HL-15040,12873.297999999999,Arkansas,0.0,0,Consumer,Storage,Technology,South,77095,0.2
+330,HM-14860,8236.7648,Pennsylvania,0.0,0,Corporate,Phones,Technology,West,98103,0.8
+331,HM-14980,736.276,California,0.0,0,Consumer,Phones,Technology,West,98105,0.2
+332,HP-14815,1990.314,Arizona,0.0,0,Home Office,Supplies,Technology,West,90049,0.8
+333,HR-14770,1299.288,Indiana,0.0,0,Home Office,Storage,Technology,West,90045,0.2
+334,HR-14830,5248.787,Washington,0.07142857142857142,0,Corporate,Storage,Technology,West,98103,0.3
+335,HW-14935,9300.254,Oklahoma,0.0,0,Corporate,Supplies,Technology,West,98115,0.3
+336,HZ-14950,886.52,Texas,0.16666666666666666,0,Consumer,Phones,Technology,South,77095,0.6
+337,IG-15085,744.574,Washington,0.0,0,Consumer,Paper,Office Supplies,West,98103,0.2
+338,IL-15100,5040.736,Ohio,0.0,0,Consumer,Storage,Technology,West,94122,0.2
+339,IM-15055,2872.63,Nevada,0.5,0,Consumer,Paper,Technology,West,95661,0.2
+340,IM-15070,4930.474,Pennsylvania,0.0,0,Consumer,Tables,Technology,West,98103,0.7
+341,JA-15970,6491.026,California,0.0,0,Consumer,Tables,Technology,West,97477,0.7
+342,JB-15400,1791.605,Wisconsin,0.0,0,Corporate,Storage,Technology,West,94086,0.8
+343,JB-15925,900.552,Texas,0.0,0,Consumer,Paper,Technology,West,90032,0.7
+344,JB-16000,644.1188,Washington,0.0,0,Consumer,Paper,Office Supplies,West,98632,0.32
+345,JB-16045,2518.115,Connecticut,0.0,0,Home Office,Storage,Technology,West,91911,0.7
+346,JC-15340,71.263,New York,0.0,0,Consumer,Furnishings,Office Supplies,West,92503,0.7
+347,JC-15385,1058.108,Washington,0.0,0,Consumer,Labels,Technology,West,98031,0.2
+348,JC-15775,2772.055,Washington,0.0625,0,Consumer,Tables,Technology,West,98115,0.4
+349,JC-16105,858.576,New York,0.0,0,Corporate,Storage,Technology,West,90045,0.2
+350,JD-15790,2152.352,Florida,0.0,0,Consumer,Storage,Technology,West,90049,0.2
+351,JD-15895,7610.8640000000005,New York,0.0,0,Corporate,Tables,Technology,West,92503,0.7
+352,JD-16015,385.43,Washington,0.0,0,Consumer,Storage,Technology,West,98115,0.8
+353,JD-16060,695.442,Texas,0.6666666666666666,0,Consumer,Storage,Office Supplies,West,94109,0.3
+354,JD-16150,8828.0305,California,0.0,0,Corporate,Tables,Technology,West,92037,0.2
+355,JE-15475,1388.682,New York,0.0,0,Consumer,Tables,Technology,West,98103,0.8
+356,JE-15610,7754.976,New Hampshire,0.0,0,Corporate,Storage,Technology,West,92105,0.7
+357,JE-15715,8697.842999999999,Texas,0.0,0,Consumer,Tables,Technology,West,98115,0.8
+358,JE-15745,6760.8150000000005,Texas,0.13043478260869565,0,Consumer,Supplies,Technology,West,95123,0.8
+359,JE-16165,2697.248,California,0.0,0,Corporate,Phones,Technology,West,95695,0.2
+360,JF-15190,2279.5860000000002,California,0.0,0,Consumer,Supplies,Technology,West,90805,0.7
+361,JF-15295,955.124,Michigan,0.0,0,Consumer,Storage,Technology,West,98103,0.2
+362,JF-15355,1911.844,California,0.1875,0,Consumer,Phones,Technology,West,92105,0.2
+363,JF-15415,2371.448,Nevada,0.5,0,Consumer,Phones,Technology,West,99207,0.2
+364,JF-15490,1082.918,Connecticut,0.13333333333333333,0,Consumer,Storage,Technology,West,98105,0.7
+365,JF-15565,4198.332,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,94110,0.7
+366,JG-15115,2358.676,North Carolina,0.14285714285714285,0,Consumer,Phones,Technology,West,98198,0.7
+367,JG-15160,6366.392,California,0.05555555555555555,0,Consumer,Storage,Technology,West,90049,0.6
+368,JG-15310,2240.58,Texas,0.36363636363636365,0,Corporate,Supplies,Office Supplies,West,90805,0.8
+369,JG-15805,1507.018,Texas,0.0,0,Corporate,Storage,Office Supplies,West,92105,0.2
+370,JH-15430,309.281,Ohio,0.0,0,Consumer,Paper,Technology,West,97504,0.7
+371,JH-15820,528.91,Ohio,0.0,0,Consumer,Storage,Technology,South,60610,0.4
+372,JH-15910,959.477,California,0.1111111111111111,0,Consumer,Tables,Technology,West,90032,0.5
+373,JH-15985,7954.9980000000005,North Carolina,0.0,0,Consumer,Tables,Technology,West,98115,0.4
+374,JH-16180,2256.3940000000002,New York,0.0,0,Consumer,Supplies,Technology,West,97030,0.4
+375,JJ-15445,709.178,Illinois,0.0,0,Consumer,Storage,Technology,West,90004,0.2
+376,JJ-15760,195.0,Virginia,0.0,0,Home Office,Phones,Technology,South,77036,0.2
+377,JK-15205,4427.142,Florida,0.0,0,Consumer,Storage,Technology,West,94122,0.7
+378,JK-15325,383.812,New Jersey,0.0,0,Corporate,Phones,Technology,West,90032,0.2
+379,JK-15370,2709.632,California,0.23529411764705882,0,Consumer,Tables,Technology,West,94122,0.2
+380,JK-15625,3760.028,Washington,0.0,0,Consumer,Phones,Technology,West,98502,0.2
+381,JK-15640,4760.434,California,0.5,0,Home Office,Phones,Technology,West,98105,0.2
+382,JK-15730,4867.2,Texas,0.05,0,Consumer,Tables,Technology,West,95240,0.8
+383,JK-16090,3747.668,Oregon,0.0,0,Consumer,Supplies,Technology,West,97477,0.7
+384,JK-16120,2932.484,Pennsylvania,0.058823529411764705,0,Home Office,Tables,Technology,West,92105,0.6
+385,JL-15130,1214.956,Tennessee,0.0,0,Consumer,Tables,Technology,West,92503,0.8
+386,JL-15175,1571.523,California,0.14285714285714285,0,Home Office,Phones,Technology,West,94110,0.5
+387,JL-15235,2203.7,New York,0.0,0,Consumer,Tables,Technology,West,90049,0.8
+388,JL-15505,3173.874,South Dakota,0.0,0,Consumer,Supplies,Technology,West,92683,0.2
+389,JL-15835,9799.923,California,0.14705882352941177,0,Consumer,Storage,Technology,West,94122,0.5
+390,JL-15850,2725.256,California,0.0,0,Consumer,Storage,Technology,West,98105,0.7
+391,JM-15250,3159.1220000000003,Texas,0.0,0,Consumer,Tables,Technology,West,90032,0.8
+392,JM-15265,1804.146,Washington,0.0,0,Corporate,Storage,Technology,West,98115,0.8
+393,JM-15535,1733.443,New York,0.0,0,Consumer,Paper,Technology,West,93309,0.2
+394,JM-15580,303.948,Colorado,0.0,0,Consumer,Paper,Technology,West,98105,0.2
+395,JM-15655,864.947,California,0.16666666666666666,0,Corporate,Tables,Technology,West,90032,0.7
+396,JM-15865,7625.076000000001,New York,0.0,0,Consumer,Storage,Technology,West,90036,0.8
+397,JM-16195,2833.9260000000004,Delaware,0.05263157894736842,0,Consumer,Storage,Technology,West,94109,0.2
+398,JO-15145,3254.949,California,0.15384615384615385,0,Corporate,Tables,Technology,West,98103,0.2
+399,JO-15280,1934.272,California,0.09090909090909091,0,Consumer,Tables,Technology,West,92037,0.7
+400,JO-15550,1090.838,California,0.0,0,Home Office,Phones,Technology,West,98105,0.7
+401,JP-15460,1669.135,New Jersey,0.0,0,Corporate,Tables,Technology,West,85301,0.8
+402,JP-15520,3635.594,Texas,0.0,0,Consumer,Supplies,Technology,West,95616,0.2
+403,JP-16135,1707.71,Pennsylvania,0.15384615384615385,0,Home Office,Storage,Technology,West,92024,0.7
+404,JR-15670,1156.658,Colorado,0.0,0,Consumer,Storage,Office Supplies,West,80906,0.7
+405,JR-15700,863.88,Florida,0.0,0,Consumer,Phones,Technology,South,32216,0.2
+406,JR-16210,2201.686,Indiana,0.0,0,Corporate,Phones,Technology,West,97477,0.7
+407,JS-15595,1417.654,Florida,0.0,0,Corporate,Storage,Technology,West,90045,0.8
+408,JS-15685,1131.0639999999999,Florida,0.0,0,Corporate,Tables,Technology,West,90036,0.7
+409,JS-15880,3868.02,Washington,0.0,0,Consumer,Tables,Technology,West,98103,0.4
+410,JS-15940,469.169,Illinois,0.0,0,Home Office,Storage,Office Supplies,East,75043,0.7
+411,JS-16030,2516.494,California,0.0,0,Consumer,Storage,Technology,West,94122,0.8
+412,JW-15220,7721.714,California,0.0,0,Corporate,Phones,Technology,West,98661,0.2
+413,JW-15955,1244.086,California,0.0,0,Consumer,Storage,Technology,West,98103,0.5
+414,JW-16075,1428.731,Illinois,0.0,0,Consumer,Paper,Office Supplies,West,94109,0.8
+415,KA-16525,1519.506,Washington,0.0,0,Consumer,Storage,Technology,West,98103,0.2
+416,KB-16240,3152.6150000000002,California,0.0,0,Corporate,Paper,Technology,West,90049,0.7
+417,KB-16240,3152.6150000000002,Pennsylvania,0.0,0,Corporate,Paper,Technology,West,90049,0.7
+418,KB-16315,1569.464,Minnesota,0.0,0,Consumer,Storage,Technology,West,90008,0.7
+419,KB-16405,908.821,Washington,0.0,0,Home Office,Phones,Technology,West,98105,0.2
+420,KB-16585,2744.742,Washington,0.043478260869565216,0,Corporate,Supplies,Technology,West,98115,0.7
+421,KB-16600,983.922,New York,0.0,0,Corporate,Supplies,Technology,West,98105,0.8
+422,KC-16255,2120.954,Alabama,0.0,0,Corporate,Storage,Technology,West,94110,0.2
+423,KC-16540,3908.262,Texas,0.2,0,Consumer,Paper,Technology,West,98115,0.8
+424,KC-16675,1146.05,Washington,0.0,0,Corporate,Supplies,Office Supplies,West,98105,0.2
+425,KD-16270,8282.358,Texas,0.0,0,Consumer,Tables,Technology,West,90032,0.8
+426,KD-16345,1888.964,New York,0.0,0,Consumer,Phones,Technology,West,94122,0.3
+427,KD-16495,8181.256,California,0.17857142857142858,0,Corporate,Tables,Technology,West,95123,0.8
+428,KD-16615,2243.5099999999998,California,0.0,0,Corporate,Storage,Office Supplies,West,92804,0.2
+429,KE-16420,1686.7312,Texas,0.0,0,Corporate,Storage,Technology,West,97224,0.8
+430,KF-16285,10604.266,California,0.16666666666666666,0,Home Office,Storage,Technology,West,95336,0.2
+431,KH-16330,3312.864,Oregon,0.0,0,Corporate,Storage,Technology,West,97123,0.7
+432,KH-16360,3100.612,Kentucky,0.0,0,Consumer,Storage,Technology,South,77070,0.8
+433,KH-16510,5952.859,Texas,0.0,0,Consumer,Tables,Technology,West,98103,0.8
+434,KH-16630,3918.9660000000003,Texas,0.0,0,Corporate,Storage,Technology,West,98105,0.2
+435,KH-16690,5990.799,Oregon,0.06666666666666667,0,Corporate,Storage,Technology,West,97477,0.7
+436,KL-16555,5016.488,North Carolina,0.0,0,Corporate,Tables,Technology,West,89502,0.8
+437,KL-16645,14175.229000000001,Delaware,0.034482758620689655,0,Consumer,Tables,Technology,West,98105,0.8
+438,KM-16225,2260.958,Missouri,0.0,0,Corporate,Storage,Technology,West,94086,0.2
+439,KM-16375,5620.186,Virginia,0.0,0,Home Office,Tables,Technology,West,91360,0.6
+440,KM-16660,453.538,Georgia,0.0,0,Consumer,Phones,Technology,West,95123,0.2
+441,KM-16720,4909.472,California,0.0,0,Consumer,Supplies,Technology,West,94591,0.3
+442,KN-16390,2617.272,California,0.0,0,Corporate,Tables,Technology,West,93101,0.7
+443,KN-16450,2171.962,Maryland,0.0,0,Corporate,Phones,Technology,West,93277,0.8
+444,KN-16705,2280.58,Texas,0.0,0,Home Office,Tables,Technology,West,98105,0.8
+445,KS-16300,88.472,Georgia,0.0,0,Corporate,Phones,Technology,West,84043,0.7
+446,KT-16465,3057.1,California,0.14285714285714285,0,Consumer,Storage,Technology,West,94109,0.8
+447,KT-16480,4642.088400000001,New York,0.0,0,Consumer,Tables,Technology,West,94110,0.4
+448,KW-16435,4416.5199999999995,Michigan,0.1,0,Consumer,Phones,Technology,South,78745,0.8
+449,KW-16570,449.096,California,0.0,0,Consumer,Furnishings,Technology,West,94109,0.2
+450,LA-16780,8673.222,California,0.0,0,Corporate,Storage,Technology,West,93727,0.6
+451,LB-16735,50.188,Florida,0.0,0,Consumer,Paper,Office Supplies,West,90032,0.6
+452,LB-16795,4985.676,Colorado,0.16666666666666666,0,Home Office,Tables,Technology,West,98105,0.8
+453,LC-16870,2580.7039999999997,Colorado,0.03333333333333333,0,Consumer,Tables,Technology,West,94109,0.8
+454,LC-16885,7663.126,California,0.0,0,Consumer,Tables,Technology,West,95661,0.7
+455,LC-16930,4492.946,Texas,0.0,0,Corporate,Phones,Technology,West,95823,0.3
+456,LC-16960,3246.626,Virginia,0.0,0,Home Office,Storage,Office Supplies,West,92037,0.7
+457,LC-17050,2095.064,California,0.0,0,Consumer,Phones,Technology,West,92691,0.7
+458,LC-17140,2633.582,Washington,0.0,0,Consumer,Storage,Technology,West,98103,0.8
+459,LD-16855,5.304,Illinois,0.0,0,Corporate,Art,Office Supplies,Central,60653,0.2
+460,LD-17005,1961.934,Michigan,0.0,0,Consumer,Storage,Technology,West,94122,0.2
+461,LE-16810,1469.45,Virginia,0.0,0,Consumer,Supplies,Technology,West,90604,0.8
+462,LF-17185,3930.5089999999996,Ohio,0.1875,0,Consumer,Storage,Technology,West,90301,0.8
+463,LH-16750,287.426,Arizona,0.0,0,Consumer,Phones,Technology,West,85224,0.7
+464,LH-16900,2295.332,California,0.0,0,Consumer,Phones,Technology,West,94110,0.7
+465,LH-17020,318.239,California,0.0,0,Consumer,Phones,Technology,West,94122,0.8
+466,LH-17155,1739.689,California,0.05263157894736842,0,Consumer,Storage,Technology,West,95123,0.2
+467,LL-16840,2741.2039999999997,Louisiana,0.16666666666666666,0,Consumer,Phones,Technology,West,98105,0.2
+468,LM-17065,1346.774,Ohio,0.0,0,Consumer,Tables,Technology,South,71901,0.2
+469,LO-17170,644.35,New York,0.0,0,Corporate,Storage,Technology,West,92253,0.8
+470,LP-17080,756.606,California,0.3333333333333333,0,Consumer,Paper,Office Supplies,West,98103,0.2
+471,LP-17095,3653.399,Illinois,0.0,0,Consumer,Tables,Technology,West,93277,0.7
+472,LR-16915,5142.892,California,0.0625,0,Consumer,Tables,Technology,West,92024,0.7
+473,LR-17035,1879.306,New York,0.0,0,Corporate,Supplies,Technology,West,95051,0.8
+474,LS-16945,2845.27,California,0.0,0,Corporate,Storage,Technology,West,94110,0.8
+475,LS-16975,2988.674,Texas,0.045454545454545456,0,Home Office,Tables,Technology,West,94109,0.8
+476,LS-17200,1010.2560000000001,Arkansas,0.21428571428571427,0,Corporate,Storage,Office Supplies,West,93727,0.8
+477,LS-17230,368.88000000000005,California,0.0,0,Consumer,Paper,Office Supplies,West,90049,0.3
+478,LS-17245,1008.1360000000001,California,0.5833333333333334,0,Consumer,Phones,Technology,West,94110,0.2
+479,LT-16765,329.876,Ohio,0.0,0,Consumer,Phones,Technology,West,92025,0.2
+480,LT-17110,2936.252,Illinois,0.07142857142857142,0,Consumer,Tables,Technology,West,93534,0.8
+481,LW-16825,2238.061,Texas,0.0,0,Corporate,Tables,Technology,West,94513,0.7
+482,LW-16990,3230.308,California,0.0,0,Corporate,Tables,Technology,West,94110,0.2
+483,LW-17125,1259.04,Virginia,0.0,0,Consumer,Furnishings,Technology,West,93030,0.0
+484,LW-17215,5420.514,New York,0.0,0,Consumer,Storage,Technology,West,91104,0.8
+485,MA-17560,4299.161,Texas,0.11764705882352941,0,Home Office,Tables,Technology,West,90004,0.6
+486,MA-17995,2453.284,Virginia,0.0,0,Home Office,Storage,Technology,West,90004,0.2
+487,MB-17305,1548.702,Ohio,0.2631578947368421,0,Consumer,Storage,Technology,West,98632,0.7
+488,MB-18085,1428.231,Pennsylvania,0.3,0,Consumer,Tables,Technology,West,95661,0.7
+489,MC-17275,2725.982,Washington,0.23076923076923078,0,Consumer,Tables,Office Supplies,West,99301,0.7
+490,MC-17425,4432.138,Alabama,0.0,0,Corporate,Paper,Technology,West,97206,0.6
+491,MC-17575,1303.893,California,0.0,0,Consumer,Storage,Technology,West,98103,0.8
+492,MC-17590,2426.067,Texas,0.0,0,Corporate,Tables,Technology,West,92236,0.6
+493,MC-17605,2258.192,Michigan,0.0,0,Corporate,Tables,Technology,West,90032,0.7
+494,MC-17635,795.154,Indiana,0.0,0,Corporate,Storage,Technology,West,90032,0.8
+495,MC-17845,3805.714,Washington,0.0,0,Consumer,Tables,Technology,West,99301,0.6
+496,MC-18100,2218.98,Pennsylvania,0.15789473684210525,0,Consumer,Tables,Technology,West,98270,0.8
+497,MC-18130,1581.9979999999998,Delaware,0.0,0,Corporate,Tables,Technology,West,98115,0.2
+498,MD-17350,3766.382,Pennsylvania,0.0,0,Consumer,Tables,Technology,West,92804,0.7
+499,MD-17860,1204.91,Indiana,0.0,0,Corporate,Storage,Office Supplies,South,78415,0.7
+500,ME-17320,10663.728000000001,Kentucky,0.0,0,Home Office,Tables,Technology,West,93101,0.8
+501,ME-17725,1908.4532,Delaware,0.0,0,Consumer,Tables,Technology,West,98105,0.8
+502,ME-18010,1256.944,Texas,0.0,0,Corporate,Tables,Office Supplies,West,98105,0.2
+503,MF-17665,937.039,Ohio,0.0,0,Corporate,Paper,Office Supplies,West,85023,0.7
+504,MF-18250,1758.3,Texas,0.0,0,Corporate,Storage,Technology,West,90036,0.2
+505,MG-17650,3785.276,Texas,0.0,0,Home Office,Supplies,Technology,West,98103,0.4
+506,MG-17680,2350.188,Ohio,0.6,0,Home Office,Tables,Technology,West,90049,0.4
+507,MG-17695,1342.282,Pennsylvania,0.0,0,Consumer,Supplies,Technology,East,60610,0.8
+508,MG-17875,1242.8329999999999,Texas,0.0,0,Home Office,Tables,Office Supplies,South,79907,0.8
+509,MG-17890,776.384,California,0.0,0,Home Office,Supplies,Technology,West,97301,0.6
+510,MG-18145,3061.543,California,0.0,0,Consumer,Tables,Technology,West,90045,0.3
+511,MG-18205,16.739,Florida,0.0,0,Corporate,Furnishings,Office Supplies,South,32216,0.7
+512,MH-17290,2394.025,Florida,0.07692307692307693,0,Home Office,Tables,Technology,West,90036,0.7
+513,MH-17440,400.016,New York,0.0,0,Corporate,Paper,Office Supplies,West,92025,0.3
+514,MH-17455,2456.1820000000002,Illinois,0.2727272727272727,0,Consumer,Storage,Technology,West,90032,0.4
+515,MH-17620,1252.8,California,0.0,0,Corporate,Storage,Technology,West,94110,0.8
+516,MH-17785,2203.7780000000002,New York,0.18181818181818182,0,Corporate,Tables,Office Supplies,West,98105,0.2
+517,MH-18025,2984.948,Louisiana,0.0,0,Consumer,Tables,Office Supplies,West,98115,0.8
+518,MH-18115,5503.093,Michigan,0.0,0,Home Office,Storage,Technology,South,78577,0.7
+519,MJ-17740,6320.746,Washington,0.0,0,Consumer,Storage,Technology,West,98115,0.7
+520,MK-17905,2302.368,Connecticut,0.23529411764705882,0,Corporate,Supplies,Technology,West,92037,0.8
+521,MK-18160,1031.602,Florida,0.0,0,Consumer,Storage,Technology,West,94122,0.7
+522,ML-17395,2722.843,New Jersey,0.0,0,Corporate,Supplies,Technology,West,98103,0.7
+523,ML-17410,2921.5,Illinois,0.0,0,Consumer,Tables,Technology,West,90008,0.7
+524,ML-17755,2071.9139999999998,Ohio,0.07692307692307693,0,Home Office,Supplies,Technology,West,97477,0.2
+525,ML-18040,742.082,New Mexico,0.0,0,Corporate,Furnishings,Technology,West,87105,0.8
+526,ML-18265,162.232,North Carolina,0.3333333333333333,0,Consumer,Art,Technology,West,98103,0.2
+527,MM-17260,1314.023,Ohio,0.0,0,Consumer,Tables,Office Supplies,West,98105,0.3
+528,MM-17920,3794.0800000000004,New York,0.0625,0,Consumer,Tables,Technology,West,94110,0.8
+529,MM-18055,2749.881,Washington,0.0,0,Consumer,Tables,Technology,West,98115,0.7
+530,MM-18280,775.414,Tennessee,0.0,0,Corporate,Supplies,Technology,West,98103,0.7
+531,MN-17935,2477.946,Tennessee,0.0,0,Consumer,Storage,Technology,South,79907,0.8
+532,MO-17500,922.487,Illinois,0.2,0,Consumer,Tables,Technology,East,75056,0.5
+533,MO-17800,1687.0269999999998,Texas,0.0,0,Home Office,Tables,Technology,West,99207,0.6
+534,MO-17950,154.288,Texas,0.0,0,Consumer,Appliances,Technology,South,75220,0.8
+535,MP-17470,3206.132,Ohio,0.0,0,Home Office,Phones,Technology,South,78521,0.3
+536,MP-17965,3983.6420000000003,New York,0.0,0,Corporate,Tables,Technology,South,78501,0.8
+537,MP-18175,5087.92,California,0.0,0,Home Office,Tables,Technology,West,97477,0.7
+538,MR-17545,639.178,Pennsylvania,0.0,0,Home Office,Storage,Technology,West,98103,0.8
+539,MS-17365,7443.6900000000005,New Mexico,0.0,0,Consumer,Storage,Technology,West,94110,0.8
+540,MS-17530,475.65599999999995,Washington,0.42857142857142855,0,Consumer,Tables,Technology,West,98105,0.7
+541,MS-17710,1613.402,Arizona,0.26666666666666666,0,Consumer,Storage,Technology,West,93727,0.7
+542,MS-17770,3144.678,New York,0.0,0,Consumer,Supplies,Technology,West,98105,0.7
+543,MS-17830,370.348,Texas,0.0,0,Consumer,Tables,Technology,West,90036,0.3
+544,MS-17980,855.116,Missouri,0.0,0,Corporate,Phones,Technology,East,77095,0.3
+545,MT-17815,2890.139,New York,0.0,0,Consumer,Tables,Technology,West,94110,0.7
+546,MT-18070,1319.4498,Texas,0.0,0,Home Office,Phones,Technology,West,90045,0.8
+547,MV-17485,1560.05,California,0.0,0,Consumer,Storage,Office Supplies,West,98115,0.8
+548,MV-18190,1734.574,Michigan,0.09090909090909091,0,Consumer,Storage,Technology,West,92404,0.2
+549,MW-18220,5341.900000000001,Minnesota,0.14285714285714285,0,Consumer,Storage,Technology,West,98103,0.2
+550,MW-18235,5253.876,California,0.3333333333333333,0,Corporate,Phones,Technology,West,94122,0.2
+551,MY-17380,2254.285,New York,0.0,0,Corporate,Phones,Technology,West,91730,0.7
+552,MY-18295,4152.696,California,0.09523809523809523,0,Corporate,Storage,Technology,West,92020,0.8
+553,MZ-17335,593.606,Arizona,0.0,0,Home Office,Furnishings,Technology,West,98105,0.2
+554,MZ-17515,2564.906,Pennsylvania,0.0,0,Corporate,Supplies,Technology,West,98115,0.8
+555,NB-18580,273.87199999999996,Louisiana,0.0,0,Corporate,Furnishings,Office Supplies,South,71111,0.2
+556,NB-18655,1972.599,New York,0.23529411764705882,0,Corporate,Tables,Technology,West,94109,0.7
+557,NC-18340,2461.404,New York,0.29411764705882354,0,Consumer,Storage,Technology,East,77036,0.2
+558,NC-18415,2218.9900000000002,North Carolina,0.0,0,Consumer,Supplies,Technology,West,93454,0.8
+559,NC-18535,8241.739,Washington,0.0,0,Corporate,Supplies,Technology,West,98105,0.7
+560,NC-18625,1821.742,Colorado,0.0,0,Corporate,Tables,Technology,West,80013,0.7
+561,ND-18370,4326.139,South Carolina,0.0,0,Consumer,Storage,Technology,West,97206,0.8
+562,ND-18460,2893.455,Virginia,0.0,0,Corporate,Tables,Technology,West,85224,0.5
+563,NF-18385,8322.826,West Virginia,0.07142857142857142,0,Consumer,Tables,Technology,South,78539,0.8
+564,NF-18475,377.16200000000003,Nevada,0.0,0,Home Office,Phones,Technology,West,89502,0.8
+565,NF-18595,2031.472,California,0.0,0,Home Office,Storage,Office Supplies,West,98105,0.2
+566,NG-18355,1869.58,Ohio,0.3125,0,Corporate,Storage,Technology,South,49201,0.4
+567,NG-18430,1395.9379999999999,Texas,0.0,0,Consumer,Storage,Technology,West,90008,0.2
+568,NH-18610,2673.29,Michigan,0.0,0,Corporate,Phones,Technology,West,91767,0.2
+569,NK-18490,572.048,California,0.0,0,Home Office,Supplies,Technology,West,98105,0.2
+570,NL-18310,1418.0900000000001,California,0.0,0,Home Office,Storage,Technology,West,94526,0.2
+571,NM-18445,6459.344,New York,0.0,0,Home Office,Tables,Technology,West,94521,0.2
+572,NM-18520,2161.979,Texas,0.06666666666666667,0,Consumer,Storage,Technology,West,98105,0.8
+573,NP-18325,5529.62,California,0.0,0,Consumer,Tables,Technology,West,94601,0.4
+574,NP-18670,3908.402,New Jersey,0.0,0,Consumer,Phones,Technology,West,98105,0.2
+575,NP-18685,1228.698,North Carolina,0.0,0,Home Office,Furnishings,Technology,West,98198,0.7
+576,NP-18700,7903.1825,Washington,0.0,0,Consumer,Tables,Technology,West,98105,0.8
+577,NR-18550,2367.277,New Jersey,0.0,0,Consumer,Tables,Technology,West,91911,0.7
+578,NS-18505,2575.863,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,95123,0.4
+579,NS-18640,2964.823,California,0.19230769230769232,0,Corporate,Tables,Technology,West,94109,0.8
+580,NW-18400,7234.014,Nevada,0.0,0,Consumer,Tables,Technology,West,97224,0.7
+581,NZ-18565,2488.31,Idaho,0.05,0,Home Office,Storage,Technology,West,98115,0.7
+582,ON-18715,1567.52,North Carolina,0.06666666666666667,0,Corporate,Tables,Technology,West,92399,0.8
+583,OT-18730,3818.624,Virginia,0.0,0,Consumer,Tables,Office Supplies,West,92105,0.7
+584,PA-19060,729.408,Illinois,0.0,0,Home Office,Envelopes,Technology,West,94122,0.7
+585,PB-18805,740.356,Utah,0.0,0,Home Office,Phones,Technology,West,98115,0.2
+586,PB-19105,688.324,Texas,0.0,0,Consumer,Phones,Technology,South,77095,0.2
+587,PB-19150,1456.95,California,0.09090909090909091,0,Consumer,Supplies,Technology,West,98115,0.2
+588,PB-19210,132.738,Pennsylvania,0.0,0,Corporate,Phones,Technology,East,74133,0.2
+589,PC-18745,1832.064,California,0.0,0,Corporate,Storage,Office Supplies,West,94122,0.7
+590,PC-19000,1061.488,Arizona,0.0,0,Home Office,Tables,Office Supplies,West,90004,0.2
+591,PF-19120,9062.864,Texas,0.0,0,Consumer,Storage,Technology,West,85234,0.8
+592,PF-19165,2770.0,California,0.0,0,Consumer,Tables,Technology,West,98502,0.5
+593,PF-19225,2206.1279999999997,California,0.0,0,Consumer,Phones,Technology,West,98026,0.2
+594,PG-18820,3086.907,Florida,0.19230769230769232,0,Consumer,Supplies,Technology,West,94110,0.8
+595,PG-18895,1987.164,New Jersey,0.0,0,Consumer,Phones,Technology,West,94122,0.6
+596,PH-18790,729.648,Florida,0.0,0,Home Office,Furnishings,Furniture,South,33801,0.2
+597,PJ-18835,1220.09,New York,0.0,0,Corporate,Phones,Technology,West,98115,0.2
+598,PJ-18835,1220.09,Virginia,0.0,0,Corporate,Phones,Technology,West,98115,0.2
+599,PJ-19015,1824.2340000000002,Alabama,0.3,0,Consumer,Tables,Technology,West,92704,0.2
+600,PK-18910,1441.152,California,0.0,0,Home Office,Phones,Technology,West,94109,0.7
+601,PK-19075,8646.934,Wisconsin,0.04,0,Consumer,Tables,Technology,West,94122,0.3
+602,PL-18925,239.481,California,0.0,0,Home Office,Storage,Technology,West,98115,0.7
+603,PM-18940,1405.402,Texas,0.0,0,Consumer,Tables,Office Supplies,South,77590,0.3
+604,PM-19135,4115.662,Michigan,0.0,0,Home Office,Tables,Technology,South,78207,0.3
+605,PN-18775,1467.152,Florida,0.0,0,Home Office,Storage,Technology,West,93309,0.2
+606,PO-18850,7473.8282,Texas,0.0,0,Consumer,Tables,Technology,West,94109,0.7
+607,PO-18865,2493.214,Michigan,0.0,0,Consumer,Storage,Technology,West,90036,0.2
+608,PO-19180,4893.043,Minnesota,0.1111111111111111,0,Home Office,Storage,Technology,West,98115,0.8
+609,PO-19195,1056.858,Illinois,0.1,0,Home Office,Storage,Technology,West,94122,0.8
+610,PP-18955,7252.608,Ohio,0.35294117647058826,0,Home Office,Tables,Technology,West,98115,0.7
+611,PR-18880,1840.178,California,0.08333333333333333,0,Consumer,Tables,Technology,West,94601,0.2
+612,PS-18760,2181.479,Massachusetts,0.047619047619047616,0,Consumer,Storage,Technology,West,90008,0.7
+613,PS-18970,1278.639,Oklahoma,0.15384615384615385,0,Home Office,Storage,Office Supplies,West,98105,0.3
+614,PS-19045,6843.634,North Carolina,0.0,0,Home Office,Tables,Technology,West,92054,0.7
+615,PT-19090,160.572,Florida,0.5714285714285714,0,Consumer,Storage,Office Supplies,South,78207,0.8
+616,PV-18985,2876.046,California,0.0,0,Home Office,Storage,Technology,West,94122,0.3
+617,PW-19030,3454.916,New York,0.0,0,Corporate,Storage,Technology,West,98105,0.2
+618,PW-19240,3922.4150000000004,Colorado,0.0,0,Consumer,Tables,Technology,West,94110,0.7
+619,QJ-19255,6108.338,Virginia,0.0,0,Corporate,Phones,Technology,South,60653,0.7
+620,RA-19285,2617.906,Florida,0.17647058823529413,0,Consumer,Supplies,Technology,West,92037,0.8
+621,RA-19885,3832.314,Georgia,0.3333333333333333,0,Corporate,Tables,Technology,West,94109,0.2
+622,RA-19915,4793.543,Colorado,0.0,0,Consumer,Storage,Technology,West,92024,0.8
+623,RA-19945,1686.9225,Texas,0.3333333333333333,0,Consumer,Tables,Technology,West,92563,0.7
+624,RB-19330,1008.1959999999999,Texas,0.0,0,Consumer,Storage,Technology,East,78745,0.8
+625,RB-19360,15117.339,Washington,0.0,0,Consumer,Storage,Technology,West,98115,0.7
+626,RB-19435,2663.0860000000002,Ohio,0.1875,0,Consumer,Phones,Technology,West,95661,0.8
+627,RB-19465,4715.466,New York,0.21739130434782608,0,Home Office,Tables,Technology,West,98103,0.8
+628,RB-19570,528.546,North Carolina,0.0,0,Consumer,Phones,Technology,West,98105,0.6
+629,RB-19645,221.084,Georgia,0.14285714285714285,0,Corporate,Paper,Technology,West,90032,0.2
+630,RB-19705,2067.45,Oregon,0.0,0,Home Office,Storage,Technology,West,97206,0.7
+631,RB-19795,5633.316000000001,Colorado,0.0,0,Home Office,Tables,Technology,West,94110,0.7
+632,RC-19825,966.409,Connecticut,0.2,0,Consumer,Tables,Technology,West,91104,0.3
+633,RC-19960,885.752,Maryland,0.0,0,Consumer,Tables,Technology,West,97477,0.5
+634,RD-19480,4272.93,Texas,0.0,0,Consumer,Storage,Technology,West,98502,0.2
+635,RD-19585,2912.8940000000002,New York,0.0,0,Consumer,Storage,Technology,West,92592,0.2
+636,RD-19660,2786.632,California,0.0,0,Home Office,Tables,Office Supplies,West,98103,0.2
+637,RD-19720,1419.737,New York,0.0,0,Consumer,Tables,Technology,West,98105,0.7
+638,RD-19810,1137.616,North Carolina,0.0,0,Home Office,Supplies,Technology,West,90045,0.8
+639,RD-19900,3133.924,California,0.0,0,Consumer,Storage,Technology,West,98006,0.2
+640,RD-19930,970.9420000000001,Texas,0.2,0,Consumer,Phones,Technology,West,90032,0.8
+641,RE-19405,48.36,Ohio,0.0,0,Consumer,Appliances,Office Supplies,East,44240,0.2
+642,RE-19450,876.696,Wisconsin,0.0,0,Consumer,Storage,Technology,West,94601,0.6
+643,RF-19345,3309.15,Georgia,0.0,0,Corporate,Storage,Technology,West,85023,0.7
+644,RF-19735,2341.2960000000003,Michigan,0.0,0,Consumer,Phones,Technology,West,95123,0.2
+645,RF-19840,945.222,Texas,0.09090909090909091,0,Consumer,Supplies,Technology,West,91104,0.7
+646,RH-19495,3621.3759999999997,Colorado,0.625,0,Consumer,Tables,Technology,West,80219,0.4
+647,RH-19510,6979.18,Kansas,0.0,0,Home Office,Supplies,Technology,West,94110,0.2
+648,RH-19555,740.382,Florida,0.0,0,Consumer,Storage,Office Supplies,South,32303,0.7
+649,RH-19600,2085.7400000000002,Virginia,0.09090909090909091,0,Consumer,Storage,Technology,South,60188,0.3
+650,RK-19300,1460.192,New York,0.0,0,Consumer,Tables,Technology,East,46614,0.4
+651,RL-19615,6234.91,California,0.0,0,Consumer,Storage,Technology,West,90049,0.8
+652,RM-19375,1453.474,Vermont,0.0,0,Consumer,Phones,Technology,West,95123,0.2
+653,RM-19675,5979.0960000000005,Massachusetts,0.0,0,Home Office,Phones,Technology,West,90049,0.2
+654,RM-19750,98.35,New York,0.0,0,Consumer,Paper,Office Supplies,East,10011,0.0
+655,RO-19780,3815.478,California,0.0,0,Consumer,Tables,Technology,West,98115,0.8
+656,RP-19270,954.6452,California,0.0,0,Corporate,Phones,Technology,West,98115,0.8
+657,RP-19390,5153.084,Colorado,0.32,0,Consumer,Supplies,Technology,West,98103,0.8
+658,RP-19855,2170.716,Texas,0.0,0,Corporate,Supplies,Technology,West,98103,0.7
+659,RR-19315,615.932,California,0.75,0,Consumer,Paper,Office Supplies,West,94110,0.6
+660,RR-19525,3302.2619999999997,North Carolina,0.0,0,Corporate,Storage,Technology,South,66212,0.2
+661,RS-19420,3221.29,Washington,0.0,0,Corporate,Tables,Office Supplies,West,98115,0.0
+662,RS-19765,4159.7699999999995,California,0.07142857142857142,0,Corporate,Tables,Technology,West,90045,0.8
+663,RS-19870,22.328,Iowa,0.0,0,Home Office,Fasteners,Office Supplies,East,52601,0.2
+664,RW-19540,7397.401,California,0.08695652173913043,0,Corporate,Tables,Technology,West,98103,0.7
+665,RW-19630,3279.746,New York,0.0,0,Corporate,Tables,Technology,West,98105,0.8
+666,RW-19690,3495.646,Pennsylvania,0.0,0,Consumer,Storage,Technology,West,90049,0.7
+667,SA-20830,4767.3415,Massachusetts,0.0,0,Consumer,Tables,Technology,West,97756,0.7
+668,SB-20170,1348.02,California,0.0,0,Consumer,Storage,Office Supplies,West,90032,0.8
+669,SB-20185,6410.996,Illinois,0.0,0,Consumer,Storage,Technology,West,98031,0.3
+670,SB-20290,8057.891,Ohio,0.23529411764705882,0,Corporate,Storage,Technology,West,92024,0.7
+671,SC-20020,3362.9636,Michigan,0.0,0,Consumer,Storage,Technology,East,77095,0.8
+672,SC-20050,4624.572,California,0.0,0,Home Office,Storage,Technology,West,91941,0.8
+673,SC-20095,14142.333999999999,Massachusetts,0.0,0,Consumer,Storage,Technology,West,94521,0.2
+674,SC-20230,4371.9580000000005,Massachusetts,0.0,0,Corporate,Tables,Technology,West,98105,0.2
+675,SC-20260,3729.7929999999997,Massachusetts,0.0,0,Corporate,Tables,Technology,West,98115,0.8
+676,SC-20305,3979.065,California,0.0,0,Consumer,Paper,Technology,West,95123,0.7
+677,SC-20380,5992.536,North Carolina,0.0,0,Consumer,Tables,Technology,West,98115,0.8
+678,SC-20440,1874.998,Colorado,0.0,0,Corporate,Storage,Technology,West,90032,0.7
+679,SC-20575,902.7280000000001,Florida,0.0,0,Consumer,Chairs,Office Supplies,West,90036,0.8
+680,SC-20680,1254.64,California,0.0,0,Home Office,Storage,Technology,West,98115,0.0
+681,SC-20695,2576.408,Texas,0.0,0,Corporate,Supplies,Technology,South,77041,0.8
+682,SC-20725,5226.21,California,0.0,0,Consumer,Tables,Technology,West,98115,0.8
+683,SC-20770,4492.657,California,0.0,0,Corporate,Tables,Technology,West,94122,0.8
+684,SC-20800,279.25600000000003,Texas,0.4,0,Consumer,Storage,Technology,West,90036,0.2
+685,SC-20845,280.632,Illinois,0.0,0,Consumer,Storage,Office Supplies,West,80027,0.2
+686,SD-20485,6121.114,Virginia,0.0,0,Home Office,Tables,Technology,West,85023,0.4
+687,SE-20110,12209.438000000002,California,0.0,0,Consumer,Tables,Technology,West,98103,0.6
+688,SF-20065,763.5459999999999,Massachusetts,0.1111111111111111,0,Consumer,Paper,Office Supplies,West,91767,0.3
+689,SF-20200,3422.7859999999996,Washington,0.13333333333333333,0,Consumer,Tables,Technology,West,98270,0.7
+690,SF-20965,3336.535,Texas,0.0,0,Corporate,Storage,Technology,West,94109,0.8
+691,SG-20080,3406.5809999999997,California,0.8181818181818182,0,Consumer,Supplies,Technology,West,98105,0.2
+692,SG-20470,1884.798,Maryland,0.07142857142857142,0,Consumer,Tables,Technology,West,97030,0.7
+693,SG-20605,3124.832,Indiana,0.0,0,Consumer,Storage,Technology,West,94109,0.2
+694,SG-20890,47.946,New York,0.0,0,Corporate,Storage,Office Supplies,East,79109,0.8
+695,SH-19975,3406.8395,Texas,0.0,0,Corporate,Storage,Technology,West,98105,0.8
+696,SH-20395,2180.718,New York,0.06666666666666667,0,Consumer,Tables,Technology,West,94122,0.7
+697,SH-20635,2096.392,Tennessee,0.0,0,Corporate,Furnishings,Furniture,West,95823,0.2
+698,SJ-20125,3949.656,California,0.0,0,Home Office,Storage,Technology,West,98105,0.8
+699,SJ-20215,1341.036,Texas,0.2,0,Consumer,Storage,Technology,West,91104,0.8
+700,SJ-20500,1318.776,California,0.0,0,Consumer,Phones,Technology,West,94122,0.8
+701,SK-19990,883.409,Connecticut,0.0,0,Consumer,Supplies,Technology,East,43615,0.7
+702,SL-20155,3053.012,Oklahoma,0.2222222222222222,0,Home Office,Tables,Technology,West,97301,0.8
+703,SM-20005,244.49399999999997,Arizona,0.0,0,Consumer,Paper,Office Supplies,West,85254,0.6
+704,SM-20320,25043.05,North Carolina,0.06666666666666667,0,Home Office,Supplies,Technology,West,90049,0.7
+705,SM-20905,1043.041,Ohio,0.0,0,Consumer,Storage,Technology,East,43055,0.7
+706,SM-20950,5563.392,North Carolina,0.0,0,Corporate,Tables,Office Supplies,West,90036,0.7
+707,SN-20560,1860.418,California,0.2,0,Home Office,Storage,Office Supplies,West,94109,0.8
+708,SN-20710,3127.9592,Illinois,0.0,0,Home Office,Phones,Technology,West,98042,0.32
+709,SO-20335,2602.5755,California,0.0,0,Consumer,Tables,Technology,West,98105,0.45
+710,SP-20545,1306.086,New York,0.0,0,Corporate,Storage,Technology,East,60623,0.8
+711,SP-20620,5440.319,Colorado,0.0,0,Corporate,Tables,Technology,West,94110,0.8
+712,SP-20650,1872.4360000000001,Illinois,0.0,0,Corporate,Storage,Technology,West,95207,0.6
+713,SP-20860,4282.94,Texas,0.0,0,Corporate,Storage,Technology,West,90045,0.7
+714,SP-20920,3990.689,Illinois,0.35714285714285715,0,Consumer,Storage,Technology,West,94109,0.8
+715,SR-20425,3233.481,Ohio,0.0,0,Home Office,Paper,Technology,West,80027,0.7
+716,SR-20740,4345.8859999999995,Washington,0.08333333333333333,0,Home Office,Storage,Technology,West,98103,0.2
+717,SS-20140,1324.028,Rhode Island,0.0,0,Corporate,Supplies,Technology,West,98103,0.8
+718,SS-20410,3056.8070000000002,California,0.0,0,Consumer,Tables,Technology,West,90008,0.8
+719,SS-20515,613.4,Delaware,0.0,0,Home Office,Furnishings,Technology,South,53132,0.0
+720,SS-20590,418.49,California,0.3333333333333333,0,Consumer,Storage,Technology,West,98115,0.0
+721,SS-20875,964.636,Florida,0.0,0,Consumer,Tables,Technology,West,98052,0.7
+722,ST-20530,433.34000000000003,New Mexico,0.0,0,Consumer,Storage,Technology,West,87105,0.4
+723,SU-20665,2595.364,Mississippi,0.6111111111111112,0,Home Office,Supplies,Technology,West,98103,0.3
+724,SV-20365,11470.949999999999,Delaware,0.0,0,Consumer,Tables,Technology,West,90049,0.5
+725,SV-20785,4105.305,California,0.08,0,Consumer,Tables,Technology,West,92704,0.7
+726,SV-20815,1271.0900000000001,Utah,0.0,0,Corporate,Phones,Technology,West,84057,0.6
+727,SV-20935,1903.491,Ohio,0.07692307692307693,0,Consumer,Tables,Technology,West,87105,0.7
+728,SW-20245,1085.078,Illinois,0.2,0,Consumer,Storage,Technology,West,95207,0.7
+729,SW-20275,1966.65,New York,0.0,0,Consumer,Storage,Technology,West,98115,0.2
+730,SW-20350,1019.044,Nebraska,0.0,0,Home Office,Storage,Technology,East,68104,0.7
+731,SW-20455,2921.544,California,0.0,0,Consumer,Tables,Technology,West,98103,0.2
+732,SW-20755,758.6959999999999,Washington,0.0,0,Corporate,Storage,Technology,West,98115,0.2
+733,SZ-20035,3625.329,Washington,0.0,0,Home Office,Tables,Technology,West,98105,0.8
+734,TA-21385,14595.62,New York,0.0,0,Home Office,Supplies,Technology,East,66062,0.6
+735,TB-21055,1467.881,Pennsylvania,0.0,0,Consumer,Tables,Technology,East,45014,0.3
+736,TB-21175,3589.296,Kentucky,0.0,0,Corporate,Supplies,Technology,South,77041,0.2
+737,TB-21190,816.1740000000001,California,0.25,0,Home Office,Furnishings,Office Supplies,West,92503,0.1
+738,TB-21250,1602.376,Texas,0.0,0,Consumer,Supplies,Technology,West,98103,0.8
+739,TB-21280,2198.45,New York,0.18181818181818182,0,Consumer,Phones,Technology,West,85023,0.7
+740,TB-21355,834.328,New Jersey,0.0,0,Corporate,Storage,Technology,South,77041,0.2
+741,TB-21400,9133.99,Florida,0.11764705882352941,0,Consumer,Storage,Technology,West,98105,0.2
+742,TB-21520,4737.486,Texas,0.0,0,Consumer,Tables,Technology,West,97206,0.8
+743,TB-21595,1387.559,Oregon,0.14285714285714285,0,Consumer,Phones,Technology,West,97206,0.6
+744,TB-21625,2797.668,California,0.26666666666666666,0,Consumer,Tables,Technology,West,94110,0.8
+745,TC-20980,19052.218,Indiana,0.0,0,Corporate,Storage,Technology,West,98105,0.8
+746,TC-21145,1038.26,New Jersey,0.0,0,Corporate,Storage,Technology,East,8701,0.0
+747,TC-21295,4266.812,Massachusetts,0.125,0,Consumer,Storage,Technology,West,92683,0.8
+748,TC-21475,1244.976,Washington,0.0,0,Home Office,Tables,Technology,West,98115,0.8
+749,TC-21535,742.5580000000001,California,0.1,0,Home Office,Phones,Technology,West,94122,0.7
+750,TD-20995,1434.5480000000002,California,0.25,0,Consumer,Supplies,Office Supplies,West,97206,0.8
+751,TG-21310,3058.372,New York,0.0,0,Consumer,Storage,Technology,West,98198,0.7
+752,TG-21640,2074.661,Florida,0.5,0,Consumer,Supplies,Technology,West,90805,0.7
+753,TH-21100,2422.824,California,0.0,0,Consumer,Storage,Technology,West,92037,0.4
+754,TH-21115,2942.772,Pennsylvania,0.0,0,Corporate,Storage,Technology,East,77070,0.6
+755,TH-21235,1022.201,California,0.07692307692307693,0,Corporate,Tables,Technology,West,90805,0.8
+756,TH-21550,4234.0960000000005,North Carolina,0.07692307692307693,0,Home Office,Phones,Technology,South,48227,0.7
+757,TM-21010,2955.2259999999997,California,0.0,0,Consumer,Storage,Technology,West,95687,0.8
+758,TM-21490,1094.6779999999999,Oklahoma,0.0,0,Consumer,Tables,Technology,West,94110,0.2
+759,TN-21040,3130.221,California,0.16666666666666666,0,Home Office,Tables,Technology,West,95336,0.7
+760,TP-21130,4454.0560000000005,Georgia,0.0,0,Consumer,Tables,Technology,West,97477,0.8
+761,TP-21415,5329.0048,New York,0.1,0,Consumer,Paper,Technology,West,98115,0.8
+762,TP-21565,1936.6399999999999,Colorado,0.0,0,Corporate,Supplies,Technology,West,97405,0.6
+763,TR-21325,675.9419999999999,California,0.0,0,Consumer,Phones,Technology,West,98103,0.2
+764,TS-21085,4.833,Florida,0.0,0,Consumer,Binders,Office Supplies,West,85023,0.7
+765,TS-21160,2163.6240000000003,California,0.11764705882352941,0,Corporate,Supplies,Technology,West,94110,0.7
+766,TS-21205,5371.09,California,0.10526315789473684,0,Corporate,Tables,Technology,West,94109,0.8
+767,TS-21340,974.7819999999999,Arizona,0.08333333333333333,0,Consumer,Storage,Office Supplies,West,94109,0.8
+768,TS-21370,11891.751,California,0.0,0,Corporate,Tables,Technology,West,90049,0.7
+769,TS-21430,2054.14,Pennsylvania,0.0,0,Corporate,Phones,Technology,West,98103,0.5
+770,TS-21505,2243.274,California,0.0,0,Consumer,Storage,Technology,West,94122,0.7
+771,TS-21610,2820.424,Illinois,0.0,0,Consumer,Tables,Office Supplies,West,94122,0.8
+772,TS-21655,3368.094,Texas,0.0,0,Consumer,Tables,Technology,West,91730,0.8
+773,TT-21070,4915.602,Washington,0.0,0,Consumer,Storage,Technology,West,98103,0.2
+774,TT-21220,1427.0439999999999,Virginia,0.26666666666666666,0,Consumer,Phones,Technology,West,94109,0.8
+775,TT-21265,439.5,New York,0.0,0,Corporate,Storage,Office Supplies,West,90045,0.0
+776,TT-21460,5364.808,California,0.0,0,Home Office,Tables,Technology,West,94110,0.6
+777,TW-21025,5278.826,Arizona,0.0,0,Home Office,Tables,Technology,West,98105,0.2
+778,TZ-21580,1707.286,Colorado,0.0,0,Consumer,Phones,Technology,West,94122,0.2
+779,VB-21745,2005.596,New York,0.1,0,Corporate,Storage,Office Supplies,South,78207,0.8
+780,VD-21670,6442.254,New York,0.0,0,Consumer,Storage,Technology,West,84062,0.2
+781,VF-21715,847.944,Indiana,0.0,0,Home Office,Supplies,Office Supplies,West,98115,0.3
+782,VG-21790,846.01,California,0.0,0,Consumer,Supplies,Technology,West,98103,0.2
+783,VG-21805,427.372,New Jersey,0.0,0,Corporate,Storage,Technology,South,60653,0.2
+784,VM-21685,2454.866,Pennsylvania,0.16666666666666666,0,Home Office,Storage,Technology,West,98105,0.2
+785,VM-21835,380.69,Delaware,0.375,0,Consumer,Phones,Technology,West,92691,0.7
+786,VP-21730,993.9019999999999,New York,0.0,0,Home Office,Storage,Technology,West,89115,0.2
+787,VP-21760,3360.526,Tennessee,0.0,0,Corporate,Tables,Technology,West,94109,0.7
+788,VS-21820,1055.981,Texas,0.0,0,Consumer,Tables,Technology,West,90036,0.8
+789,VT-21700,1736.596,Pennsylvania,0.0,0,Home Office,Storage,Technology,East,77070,0.7
+790,VW-21775,6134.0380000000005,Ohio,0.0,0,Corporate,Tables,Technology,West,98006,0.7
+791,WB-21850,6160.102,New York,0.2972972972972973,0,Consumer,Tables,Technology,West,97756,0.8
+792,XP-21865,2374.658,Michigan,0.0,0,Consumer,Storage,Technology,West,95928,0.2
+793,YC-21895,5454.35,California,0.125,0,Corporate,Storage,Technology,West,94110,0.2
+794,YS-21880,6720.4439999999995,Delaware,0.0,0,Corporate,Tables,Technology,West,98103,0.2
+795,ZC-21910,8025.707,Washington,0.0,0,Consumer,Tables,Technology,West,98026,0.8
+796,ZD-21925,1493.944,Indiana,0.2222222222222222,0,Consumer,Phones,Technology,West,94109,0.2

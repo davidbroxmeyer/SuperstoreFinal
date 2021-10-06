@@ -3,7 +3,7 @@
 """
 Created on Thu Sep 30 21:04:28 2021
 
-@author: davidbroxmeyer
+@author: davidbroxmeyer 
 """
 
 # -*- coding: utf-8 -*-
@@ -22,7 +22,7 @@ st.title("Superstore Data")
 
 @st.cache
 def load_data(nrows = 1000):
-    df = pd.read_csv('/Users/davidbroxmeyer/dat-07-26/Homework/Unit4/data/US Superstore data Transformed.csv', nrows = 1000)
+    df = pd.read_csv('https://raw.githubusercontent.com/davidbroxmeyer/SuperstoreFinal/main/US%20Superstore%20data%20Transformed.csv', nrows = 1000)
 
     return df
 
